@@ -15,8 +15,6 @@ Quantidade e complexidade do código;
 Facilidade de desenvolvimento e manutenção.
 
 🗂 Estrutura do Repositório
-Copiar
-Editar
 tcc-comparacao-vue-svelte/
 ├── tcc-vue/       → Projeto desenvolvido com Vue.js
 ├── tcc-svelte/    → Projeto desenvolvido com Svelte
@@ -38,24 +36,20 @@ Node.js instalado
 
 Clonando o repositório
 bash
-Copiar
-Editar
 git clone https://github.com/Softwerick/tcc-comparacao-vue-svelte.git
 cd tcc-comparacao-vue-svelte
 Rodando o projeto Vue.js
-bash
-Copiar
-Editar
+Abra seu terminal e digite os comandos:
 cd tcc-vue
 npm install
 npm run dev
+
 Rodando o projeto Svelte
-bash
-Copiar
-Editar
+Abra seu terminal e digite os comandos:
 cd tcc-svelte
 npm install
 npm run dev
+
 🧪 Ferramentas de Análise
 Para comparação e coleta de métricas, foram utilizadas as seguintes ferramentas:
 
